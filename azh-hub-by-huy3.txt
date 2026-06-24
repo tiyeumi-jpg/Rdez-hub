@@ -1,4 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tiyeumi-jpg/Grow-a-garden2-huy-/refs/heads/main/fix%20lac%20provip.txt"))()
+https://raw.githubusercontent.com/tiyeumi-jpg/Grow-a-garden2-huy-/refs/heads/main/fix%20lac%20provip.txt''))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tiyeumi-jpg/Fix-lag-/refs/heads/main/auto-an-script.txt"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhDangNhoEm/TuanAnhIOS/refs/heads/main/koby"))()
 local L_1_ = {}
 L_1_[2] = table["concat"]
